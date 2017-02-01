@@ -1,7 +1,7 @@
 {
     "name": "vs-kubernetes",
     "displayName": "vs-kubernetes",
-    "description": "An extension for interacting with the Kubernetes cluster orcheastrator in Visual Studio Code",
+    "description": "An extension for interacting with the Kubernetes cluster orchestrator in Visual Studio Code",
     "version": "0.0.5",
     "publisher": "brendandburns",
     "engines": {
